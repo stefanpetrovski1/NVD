@@ -7,6 +7,8 @@ var hashCode = function (s) {
     }, 0)
 }
 
+// YOUR CODE HERE
+
 class ObjFilters {
   constructor(name) {
     this.name = name
